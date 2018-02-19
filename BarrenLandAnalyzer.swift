@@ -1,8 +1,5 @@
-//: Playground - noun: a place where people can play
-
 //
 //  BarrenLandAnalyzer.swift
-//  BarrenLandAnalysis
 //
 //  Created by Dayal Murukutla on 2/18/18.
 //  Copyright © 2018 Dayal Murukutla. All rights reserved.
